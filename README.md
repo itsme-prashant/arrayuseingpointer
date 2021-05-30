@@ -1,0 +1,2 @@
+# arrayuseingpointer
+created by prashant
